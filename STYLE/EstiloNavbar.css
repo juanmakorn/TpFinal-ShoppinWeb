@@ -1,0 +1,25 @@
+.menu {
+  background-color: #d8dfeff7;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu li a {
+  text-decoration: black;
+  display: inline-block;
+  padding: 0.8em;
+  color: #090421;
+}
+
+.menu li a:hover {
+  background-color: #93aeec;
+}
+
+img {
+  width:20%; 
+  height:20%;
+  left: 0;
+  justify-content: space-around;
+}
